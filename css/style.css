@@ -1,0 +1,10 @@
+h1, h2, p, ul, ol {
+    font-family: Verdana, sans-serif;
+}
+h1 {
+    font-size: 45px;
+}
+.foodpic {
+    height: auto;
+    width: 350;
+}
